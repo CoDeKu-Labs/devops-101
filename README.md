@@ -54,7 +54,7 @@ We believe in the power of community and welcome contributions! If you have idea
 ## Connect With Us 🌐
 
 - **Website:** [CoDeKu](https://codeku.tech/)
-- **YouTube:** Subscribe for more tutorials
+- **YouTube:** [Subscribe for more tutorials](https://youtube.com/@lifecapturedchathunimesh)
 - **Discord:** Join our community
 
 Happy Learning! 🎉 Let's make DevOps fun and accessible for everyone! 🚀
